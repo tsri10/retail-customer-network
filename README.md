@@ -18,7 +18,7 @@ Key Objectives:
 
 Dataset:
 
-The project uses the Online Retail dataset (https://archive.ics.uci.edu/dataset/352/online+retail) from the UCI Machine Learning Repository. It contains:
+The Online Retail dataset contains:
 
 •	541,909 transactions from a UK-based online retail store between 2010 and 2011.
 
