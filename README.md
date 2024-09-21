@@ -1,12 +1,12 @@
-|| Retail Network Analytics: Identifying Key Customers and Trends ||
+## Retail Network Analytics: Identifying Key Customers and Trends
 
 This project is a comprehensive exploration of customer purchasing behavior through network analysis. Using data mining, machine learning, and advanced visualization techniques, we transformed transactional data into a customer-centric network, extracting valuable insights into customer behavior, co-purchasing patterns, and business strategies.
 
-Project Overview:
+### Project Overview:
 
 This project delves into the relationships within a retail transaction dataset by transforming customer data into a network structure. The primary goal is to understand the complex connections between customers, identify high-value customers, and segment customer bases to inform targeted marketing strategies.
 
-Key Objectives:
+### Key Objectives:
 
 •	Convert customer transaction data into a network for analyzing customer interactions.
 
@@ -16,7 +16,7 @@ Key Objectives:
 
 •	Segment customers based on purchasing frequency and spending to guide targeted marketing efforts.
 
-Dataset:
+### Dataset:
 
 The Online Retail dataset contains:
 
@@ -26,7 +26,7 @@ The Online Retail dataset contains:
 
 Due to the dataset's size and complexity, we applied stratified sampling to retain a manageable yet representative sample of customer behavior across different countries.
 
-Methodology:
+### Methodology:
 
 1.	Data Preprocessing & Cleaning:
    
@@ -63,7 +63,7 @@ formats for better analysis.
     
     •	Developed segmentation models that allow for future customer behavior predictions, supporting personalized marketing initiatives.
 
-Business Insights:
+### Business Insights:
 
    •	Customer Behavior Analysis: Through community detection, we identified clusters of customers with shared purchasing patterns, helping businesses to tailor marketing efforts toward specific customer segments.
     
@@ -71,7 +71,7 @@ Business Insights:
     
    •	Targeted Marketing Strategy: The segmentation strategy provided insight into how often and how much customers were spending, allowing businesses to design campaigns for high-frequency buyers or develop re-engagement strategies for low-frequency customers.
 
-Tools & Technologies:
+### Tools & Technologies:
 
    •	Python: For data preprocessing, network creation, and machine learning tasks.
   
@@ -83,6 +83,6 @@ Tools & Technologies:
   
    •	Matplotlib: For visualizing trends and insights.
 
-Conclusion:
+### Conclusion:
 
 This project demonstrates the application of network analysis and machine learning in the field of retail analytics. By transforming customer transactions into a network, we gained deep insights into customer behavior, identified influencers, and segmented customers to inform business decisions. This approach provides a strong foundation for future analysis and can be extended to other datasets or industries for actionable business insights.
