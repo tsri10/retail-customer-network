@@ -1,4 +1,4 @@
-Retail Network Analytics: Identifying Key Customers and Trends
+|| Retail Network Analytics: Identifying Key Customers and Trends ||
 
 This project is a comprehensive exploration of customer purchasing behavior through network analysis. Using data mining, machine learning, and advanced visualization techniques, we transformed transactional data into a customer-centric network, extracting valuable insights into customer behavior, co-purchasing patterns, and business strategies.
 
